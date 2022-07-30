@@ -1,3 +1,3 @@
 # seahorse-flutter-app
 
-# check master branch
+Static mobile app made with flutter
